@@ -1,2 +1,2 @@
 # IBMLab
-Practice account for learning Git
+Practice repo for IBM Data Science Professional
